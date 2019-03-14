@@ -4,17 +4,17 @@ const data = {
 
 
     user1: {
-        name: "user",
-        role: "developer",
+        title: "700",
         bio: "some bio info goes here",
-        bioPic: ""
+        bioPic: "yeezy_back.png",
+        previous: "",
+        next: "/"
     },
 
     user2: {
-        name: "user2",
-        role: "video",
+        title: "700",
         bio: "some bio info goes here",
-        bioPic: ""
+        bioPic: "yeezy_bottom.png"
     }
 };
 

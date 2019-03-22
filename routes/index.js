@@ -5,7 +5,7 @@ const data = require(`../data`);
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express', message: "Welcome to your first express app" });
+  res.render('index', { title: '700', mainimage: 'yeezy_side.png', });
 });
 
 router.get('/:user', function(req, res, next) {

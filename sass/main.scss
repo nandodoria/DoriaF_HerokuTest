@@ -4,6 +4,15 @@
 
 a{
     text-decoration: none;
-    color: white;
+    color: $text-color;
     text-transform: uppercase;
+    margin-left: 10px; 
+  margin-right: 10px;
+}
+
+h1
+{
+    position: absolute;
+    top: 40px;
+    font-size: 5em;
 }
